@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haji Akhundzada</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 💬 Ask me about **How you doin?**
-
 - 📫 How to reach me **axundzade02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
